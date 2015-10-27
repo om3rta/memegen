@@ -1,6 +1,10 @@
 # memegen
 simple command line meme generator
 
+Requirements:
+pyperclip
+tinyurl
+
 Run memes.py with up to three arguments ("meme name", "top line text, "bottom line text")
 Only needs meme name to work
 
